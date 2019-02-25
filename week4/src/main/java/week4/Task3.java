@@ -7,8 +7,7 @@ import java.nio.file.Paths;
 public class Task3 {
 
 	public static void main(String[] args) throws IOException {
-		String paragraph = new String(Files.readAllBytes(Paths.get("Sherlock Paragraph 3")));
-//		String paragraph = "abcdefghijklmnopqrstuvwxyz";  // for testing 
+		String paragraph = new String(Files.readAllBytes(Paths.get("Sherlock Paragraph 3"))).toUpperCase();
 		System.out.println("Original Paragraph: \n" + paragraph);
 
 		StringBuilder strippedParagraph = new StringBuilder();
@@ -27,8 +26,8 @@ public class Task3 {
 		System.out.println("Stripped Paragraph: \n" + strippedParagraph);
 		System.out.println("Encoded Paragraph: \n" + encodedParagraph);
 		System.out.println("Decoded Paragraph: \n" + decodedParagraph);
-//		System.out.println("Enc length: " + encodedParagraph.length());
-//		System.out.println("Dec length: " + decodedParagraph.length());
+		System.out.println("Enc length: " + encodedParagraph.length());
+		System.out.println("Dec length: " + decodedParagraph.length());
 	}
 
 	public static String encodeText(String text) {
@@ -38,13 +37,13 @@ public class Task3 {
 		for (int ind = 0; ind < text.length(); ind++) {
 			int key = 3;
 			char letter = text.charAt(ind);
-			if (letter >= 'x') {
+			if (letter == 88 || letter == 89 || letter == 90) {
 				letter = (char) (letter - (26 - key));
+				encodedText.append(letter);
 			} else {
 				letter += key;
+				encodedText.append(letter);
 			}
-
-			encodedText.append(letter);
 		}
 		return encodedText.toString();
 	}
@@ -56,11 +55,11 @@ public class Task3 {
 		for (int ind = 0; ind < text.length(); ind++) {
 			int key = 3;
 			char letter = text.charAt(ind);
-			if (letter <= 'c') {
+			if (letter == 65 || letter == 66 || letter == 67) {
 				letter = (char) (letter + (26 - key));
+				decodedText.append(letter);
 			} else {
 				letter -= key;
-
 				decodedText.append(letter);
 			}
 		}

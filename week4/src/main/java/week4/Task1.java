@@ -7,9 +7,8 @@ import java.nio.file.Paths;
 public class Task1 {
 
 	public static void main(String[] args) throws IOException {
-		String paragraph = new String(Files.readAllBytes(Paths.get("Sherlock Paragraph.txt")));
+		String paragraph = new String(Files.readAllBytes(Paths.get("Sherlock Paragraph 3")));
 		System.out.println(paragraph);
 
 	}
-
 }
