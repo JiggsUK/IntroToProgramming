@@ -1,2 +1,0 @@
-Bus Driver ID: ${badge_number}
-You are ${(active?yes:no)}.
