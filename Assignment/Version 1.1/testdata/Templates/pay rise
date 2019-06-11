@@ -1,0 +1,1 @@
+Your yearly review was ${(review?great)} and as a result we would like to offer you a pay rise of £${pay_rise} per year.
