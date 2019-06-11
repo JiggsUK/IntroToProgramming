@@ -1,0 +1,40 @@
+	Fib Numbers: for unknown number, create ArrayList to allow expansion, then convert to array with arraylist size
+		
+		ArrayList<Integer> fibNumbers = new ArrayList<Integer>(2);
+		fibNumbers.add(0);
+		fibNumbers.add(1);
+		
+		
+		for (int element: fibNumbers) {
+			//fib numbers = add element @ current index, (element @ current index - 1) + (element @ current index - 2)
+			int elementMinus1 = fibNumbers.size() - 1;
+			int elementMinus2 = fibNumbers.size() - 2;
+			fibNumbers.add()
+		}
+
+ ---------------------------------------------------
+| /* Task 4 snippet to visualise in python tutor */ |
+ ---------------------------------------------------
+
+import java.util.Arrays;
+
+public class Week5 {
+  public static void main(String[] args) {
+        Week5 testRun = new Week5();
+        testRun.task4();
+    }
+    public int[][] task4(){
+        int[][] matrix = new int [2][3];
+        int count = 1;
+        while (count < 7) {
+            for (int a = 0; a <= 1; a++) {
+                for (int b = 0; b <= 2; b++) {
+                    matrix[a][b] = count;
+                    count++;
+                }
+            }
+        }
+        
+        return matrix;
+}
+}
