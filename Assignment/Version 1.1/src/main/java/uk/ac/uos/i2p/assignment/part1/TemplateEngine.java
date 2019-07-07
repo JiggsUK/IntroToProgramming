@@ -12,29 +12,24 @@ public class TemplateEngine implements TemplateProcessor {
     private boolean templateLoaded;
 
     public TemplateEngine() {
-
         this.loadedTemplates = new HashMap<>();
     }
 
     public String getTemplate(String name) {
-
         return loadedTemplates.get(name);
     }
 
     public void setTemplateLoaded(boolean setting) {
-
         templateLoaded = setting;
     }
 
     @Override
     public void loadTemplate(String name, String template) {
-
         loadedTemplates.put(name.toLowerCase(), template);
     }
 
     @Override
     public void loadTemplates(Map<String, String> templates) {
-
         loadedTemplates.putAll(templates);
     }
 
@@ -57,7 +52,7 @@ public class TemplateEngine implements TemplateProcessor {
                 while (i != -1) {
                     String expression = templateText.substring(i + 2, end);
                     templateText = (templateText.substring(0, i) + expandExpression(expression, context)
-                            + templateText.substring(end + 1, templateText.length())).trim();
+                            + templateText.substring(end + 1)).trim();
                     i = templateText.indexOf("${");
                     end = templateText.indexOf('}', i);
                     expandedTemplate = templateText;
