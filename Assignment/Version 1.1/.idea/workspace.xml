@@ -2,77 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c7bd26-d98a-45e9-befe-c805bc50f63e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/me762.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/homework/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Clicker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task3Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/main/java/practical/Task7Columns.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/test/java/homework/AddressTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/test/java/practical/ClickerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/test/java/practical/Task2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/test/java/practical/Task3Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week2/src/test/java/practical/Task3TestSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/Sherlock Paragraph 1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/Sherlock Paragraph 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/Sherlock Paragraph 3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/Sherlock Paragraph 4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/bin/week4/Task1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/bin/week4/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/bin/week4/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/bin/week4/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/bin/week4/Task4Refactor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/src/main/java/week4/Task1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/src/main/java/week4/Task2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/src/main/java/week4/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/src/main/java/week4/Task4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week4/src/main/java/week4/Task4Refactor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week5/Scratch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week5/bin/week5/Week5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week5/bin/week5/Week5Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week5/src/main/java/week5/Week5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week5/src/test/java/week5/Week5Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Shapes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/bin/week6/Week6Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/main/java/week6/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/main/java/week6/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/main/java/week6/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/main/java/week6/Shapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/main/java/week6/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/main/java/week6/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week6/src/test/java/week6/Week6Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/Drum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/Instrument.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/MusicMan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/NoiseMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/Parade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/Trumpet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/bin/week7/Week7Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/Drum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/Instrument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/MusicMan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/NoiseMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/Parade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/main/java/week7/Trumpet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week7/src/test/java/week7/Week7Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uk/ac/uos/i2p/assignment/part1/TemplateEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/ac/uos/i2p/assignment/part1/TemplateEngine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -87,20 +19,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/uos/i2p/assignment/part1/TemplateEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1944">
-              <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+            <state relative-caret-position="-1862">
+              <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/test/Part1Tests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state>
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,12 +62,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/uk/ac/uos/i2p/assignment/part1/TemplateEngine.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/Part1Tests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/uk/ac/uos/i2p/assignment/part1/TemplateEngine.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="20" />
     <option name="y" value="97" />
     <option name="width" value="1750" />
@@ -201,8 +146,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +162,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -265,6 +210,15 @@
       <updated>1560274805161</updated>
       <workItem from="1560274807954" duration="2324000" />
       <workItem from="1560277788653" duration="1008000" />
+      <workItem from="1562497465269" duration="225000" />
+      <workItem from="1562497715619" duration="173000" />
+      <workItem from="1562497924020" duration="116000" />
+      <workItem from="1562498062764" duration="213000" />
+      <workItem from="1562498295900" duration="1339000" />
+      <workItem from="1562499652517" duration="166000" />
+      <workItem from="1562499838909" duration="199000" />
+      <workItem from="1562500057383" duration="80000" />
+      <workItem from="1562500158432" duration="867000" />
     </task>
     <servers />
   </component>
@@ -274,20 +228,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3332000" />
+    <option name="totallyTimeSpent" value="6710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25159913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
@@ -300,6 +253,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -324,15 +278,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/uk/ac/uos/i2p/assignment/part1/TemplateEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+        <state relative-caret-position="-1862">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test/Part1Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state>
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -400,6 +367,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
