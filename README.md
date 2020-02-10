@@ -12,9 +12,9 @@ public interface TemplateProcessor {
 	String expandTemplate(String templateName, Map<String, Object> context);
 }
 ```
-The *loadTemplate* method should store a template in the template processor with the specified name, containing the specified template text.
-The *loadTemplates* method should store a template in the template processor with the specified name, containing the specified template text for each entry in the map.
-The *expandTemplate* method should look through the named template, find placeholders of the form ```${expression}``` and replace them with the value of the specified expression. When all placeholders have been replaced, the method should return the expanded template.
+The *loadTemplate* method should store a template in the template processor with the specified name, containing the specified template text.  
+The *loadTemplates* method should store a template in the template processor with the specified name, containing the specified template text for each entry in the map.  
+The *expandTemplate* method should look through the named template, find placeholders of the form ```${expression}``` and replace them with the value of the specified expression. When all placeholders have been replaced, the method should return the expanded template.  
 
 #### Expression Table
 
